@@ -69,12 +69,17 @@ It helps management understand performance trends, identify risks, and take corr
 
 
 ##  Project Files
-- `Atliq_Hardware_Sales_Dashboard.pbix`
+-`Sales_Dashboard.pbix`
 - Raw Excel datasets
 - Documentation
-## 📷 Dashboard Preview
+- 
+##  Dashboard Preview
+[Sales Analysis Dashboard](images/dashboard_overview.png)
 
-![Sales Analysis Dashboard]
+## Documentation preview
+The detailed documentation including year-wise trends, market-wise performance, and sales decline analysis is available below:  
+=
+[Documentation Screenshot](images/documentation.png)
 
 ##  Author
 **Shifa Siddiqui**  
