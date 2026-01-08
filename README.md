@@ -74,7 +74,7 @@ It helps management understand performance trends, identify risks, and take corr
 - Documentation
 
 ##  Dashboard Preview
-[Sales Analysis Dashboard](images/dashboard_overview.png)
+![Sales Analysis Dashboard](images/dashboard_overview.png)
 
 ## Documentation preview
 The detailed documentation including year-wise trends, market-wise performance, and sales decline analysis is available below:  
