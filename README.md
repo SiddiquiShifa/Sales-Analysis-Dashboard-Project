@@ -44,7 +44,7 @@ As a result, identifying declining trends, comparing markets and customers, and 
 - Cleaned data loaded into Power BI for modeling and visualization
 
 
-## 📊 Dashboard Features
+##  Dashboard Features
 - Total Revenue KPI
 - Total Sales Quantity KPI
 - Revenue & Sales Quantity by Market
@@ -69,10 +69,17 @@ It helps management understand performance trends, identify risks, and take corr
 
 
 ##  Project Files
-- `Atliq_Hardware_Sales_Dashboard.pbix`
+-`Sales_Dashboard.pbix`
 - Raw Excel datasets
 - Documentation
 
+##  Dashboard Preview
+[Sales Analysis Dashboard](images/dashboard_overview.png)
+
+## Documentation preview
+The detailed documentation including year-wise trends, market-wise performance, and sales decline analysis is available below:  
+
+[Documentation Screenshot](images/documentation ss.png)
 
 ##  Author
 **Shifa Siddiqui**  
