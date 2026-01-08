@@ -72,13 +72,13 @@ It helps management understand performance trends, identify risks, and take corr
 -`Sales_Dashboard.pbix`
 - Raw Excel datasets
 - Documentation
-- 
+
 ##  Dashboard Preview
 [Sales Analysis Dashboard](images/dashboard_overview.png)
 
 ## Documentation preview
 The detailed documentation including year-wise trends, market-wise performance, and sales decline analysis is available below:  
-=
+
 [Documentation Screenshot](images/documentation.png)
 
 ##  Author
